@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

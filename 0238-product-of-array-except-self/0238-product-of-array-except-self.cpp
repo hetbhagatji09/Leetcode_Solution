@@ -21,16 +21,16 @@ public:
             leftSum[i]=nums[i]*leftSum[i+1];
         }
         ans[0]=leftSum[1];
-        cout<<"Left sum is"<<" "<<endl;
-        for(int i=0;i<n;i++){
-            cout<<leftSum[i]<<" ";
-        }
-        cout<<endl;
-        cout<<"Right sum is"<<" "<<endl;
-         for(int i=0;i<n;i++){
-            cout<<rightSum[i]<<" ";
-        }
-        cout<<endl;
+        // cout<<"Left sum is"<<" "<<endl;
+        // for(int i=0;i<n;i++){
+        //     cout<<leftSum[i]<<" ";
+        // }
+        // cout<<endl;
+        // cout<<"Right sum is"<<" "<<endl;
+        //  for(int i=0;i<n;i++){
+        //     cout<<rightSum[i]<<" ";
+        // }
+        // cout<<endl;
         ans[n-1]=rightSum[n-2];
         for(int i=1;i<n-1;i++){
             ans[i]=rightSum[i-1]*leftSum[i+1];

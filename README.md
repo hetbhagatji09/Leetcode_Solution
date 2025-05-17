@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1078-remove-outermost-parentheses) |

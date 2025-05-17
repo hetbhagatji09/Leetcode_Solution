@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -142,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

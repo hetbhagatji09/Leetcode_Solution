@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0283-move-zeroes) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |

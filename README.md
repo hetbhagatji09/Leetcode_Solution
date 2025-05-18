@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0242-valid-anagram) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0205-isomorphic-strings) |

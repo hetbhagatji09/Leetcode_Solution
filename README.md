@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Divide and Conquer
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String

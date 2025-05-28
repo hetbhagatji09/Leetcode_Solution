@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

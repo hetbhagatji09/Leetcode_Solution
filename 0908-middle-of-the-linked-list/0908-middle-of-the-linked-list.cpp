@@ -23,21 +23,14 @@ public:
     ListNode* middleNode(ListNode* head) {
         int ct=totalNodes(head);
 
-        if(ct%2==1){
+       
             ListNode *temp=head;
             for(int i=0;i<(ct/2);i++){
                 temp=temp->next;
             }
             return temp;
-        }
-        else{
-            ListNode *temp=head;
-            for(int i=0;i<ceil((ct/2));i++){
-                temp=temp->next;
-            }
-            return temp;
-        }
-        return NULL;
+        
+        
         
     }
 };

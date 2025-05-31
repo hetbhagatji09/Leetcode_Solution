@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2998-count-symmetric-integers) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0838-design-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

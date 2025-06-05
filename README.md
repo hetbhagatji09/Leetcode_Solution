@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

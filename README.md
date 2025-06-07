@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 ## Database
 |  |

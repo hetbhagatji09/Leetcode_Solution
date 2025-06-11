@@ -1,19 +1,14 @@
 class Solution {
 public:
-    int f(int row, int col, vector<vector<int>>& triangle, vector<vector<int>>& dp) {
- 
-        if (row == triangle.size() - 1)
-            return triangle[row][col];
-        
-        
-        if (dp[row][col] != -1)
-            return dp[row][col];
-
-
-        int down = f(row + 1, col, triangle, dp);
-        int downRight = f(row + 1, col + 1, triangle, dp);
-
-        return dp[row][col] = triangle[row][col] + min(down, downRight);
+    int f(int i, int j, vector<vector<int>>& triangle, vector<vector<int>>& dp) {
+        if(i>=triangle.size()) return 0;
+        if(i==triangle.size()){
+            return triangle[i][j];
+        }
+        if(dp[i][j]!=-1) return dp[i][j];
+        int down=f(i+1,j,triangle,dp);
+        int diagonal=f(i+1,j+1,triangle,dp);
+        return dp[i][j]=triangle[i][j]+min(down,diagonal);
     }
 
     int minimumTotal(vector<vector<int>>& triangle) {

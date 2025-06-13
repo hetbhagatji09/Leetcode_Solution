@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0491-non-decreasing-subsequences) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 ## Database

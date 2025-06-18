@@ -2,7 +2,7 @@ class Solution {
 public:
     int f(int ind,int buy,vector<int>&prices,vector<vector<int>>&dp){
         int profit=0;
-        if(ind==prices.size()) return 0;
+        if(ind>=prices.size()) return 0;
         if(dp[ind][buy]!=-1) return dp[ind][buy];
         if(buy){
             profit=max(
@@ -12,7 +12,7 @@ public:
         }
         else{
             profit=max(
-                    prices[ind] + f(ind+1,1,prices,dp),
+                    prices[ind] + f(ind+2,1,prices,dp),
                     0   + f(ind+1,0,prices,dp)   
             );
         }

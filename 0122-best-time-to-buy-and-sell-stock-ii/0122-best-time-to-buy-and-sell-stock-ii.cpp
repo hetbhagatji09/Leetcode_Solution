@@ -20,7 +20,7 @@ public:
     }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<int>>dp(n+1,vector<int>(2,0));
+        // vector<vector<int>>dp(n+1,vector<int>(2,0));
         vector<int>ahead(2,0),curr(2,0);
         ahead[0]=0;
         ahead[1]=0;

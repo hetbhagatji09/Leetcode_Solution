@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-lemonade-change](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |

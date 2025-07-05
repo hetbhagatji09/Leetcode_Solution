@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |

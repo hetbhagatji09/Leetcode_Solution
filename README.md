@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0184-department-highest-salary) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Union Find
 |  |
 | ------- |

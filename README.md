@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0177-nth-highest-salary) |
 ## Union Find
 |  |
 | ------- |

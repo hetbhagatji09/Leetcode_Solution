@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0184-department-highest-salary) |
 | [0620-not-boring-movies](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0620-not-boring-movies) |
+| [1155-product-sales-analysis-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1317-monthly-transactions-i](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1317-monthly-transactions-i) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |

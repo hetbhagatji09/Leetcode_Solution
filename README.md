@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |

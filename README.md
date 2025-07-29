@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1036-rotting-oranges) |
 ## Simulation
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1036-rotting-oranges](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1036-rotting-oranges) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |

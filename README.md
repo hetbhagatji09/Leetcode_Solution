@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0322-coin-change) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |

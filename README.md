@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0792-binary-search) |
@@ -563,4 +564,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

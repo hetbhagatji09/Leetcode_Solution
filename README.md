@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1013-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0796-rotate-string) |

@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -555,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |

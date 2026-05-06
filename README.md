@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0491-non-decreasing-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0494-target-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting Sort
 |  |
 | ------- |

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1036-rotting-oranges) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Simulation
 |  |
 | ------- |

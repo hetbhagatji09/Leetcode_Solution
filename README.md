@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3271-hash-divided-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3271-hash-divided-string) |
 ## Counting
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3271-hash-divided-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3271-hash-divided-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |

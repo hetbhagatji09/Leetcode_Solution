@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1036-rotting-oranges](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1036-rotting-oranges) |
+| [2685-count-the-number-of-complete-components](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2685-count-the-number-of-complete-components](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -612,4 +614,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->

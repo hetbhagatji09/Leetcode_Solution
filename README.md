@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/hetbhagatji09/Leetcode_Solution/tree/master/1250-longest-common-subsequence) |
